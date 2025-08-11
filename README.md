@@ -25,7 +25,7 @@ Linaudit est un outil d'audit de sécurité pour les systèmes Linux. Il fournit
 - python3, pip, pip3
 
 ### Étapes d'installation
-1. Clonez ce dépôt : `git clone https://github.com/Projet-M1-Cyber/project/`
+1. Clonez ce dépôt : `git clone https://github.com/Raccoon-Sec/linaudit`
 2. Linaudit va installer automatiquement les dépendances
 
 ## Utilisation
@@ -55,10 +55,6 @@ Des sauvegardes régulières sont disponibles dans le dossier `backup/`, incluan
 
 ## Licence
 WTFPL - Do What The Fuck You Want To Public License (WTFPL) is a free software license.  <a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a>
-
-## Vidéo 
-
-https://www.youtube.com/watch?v=_WDPAH2D0io
 
 ## THANKS TO
 
