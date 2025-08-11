@@ -64,4 +64,4 @@ WTFPL - Do What The Fuck You Want To Public License (WTFPL) is a free software l
 
 ---
 
-© 2025 Projet Linaudit - Dépôts principal du projet
+© 2025 Raccoon Security - Dépôts principal du projet
