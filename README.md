@@ -60,6 +60,12 @@ WTFPL - Do What The Fuck You Want To Public License (WTFPL) is a free software l
 
 https://www.youtube.com/watch?v=_WDPAH2D0io
 
+## THANKS TO
+
+- https://github.com/gorillusion
+- https://github.com/Tetaihanaonaiki
+- https://github.com/Jacklords
+
 ---
 
 © 2025 Projet Linaudit - Dépôts principal du projet
